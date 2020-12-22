@@ -1,1 +1,1 @@
-print("Just for test")
+print("Just for test!haha!")
